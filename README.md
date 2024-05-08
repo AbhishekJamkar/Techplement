@@ -1,5 +1,5 @@
 Techplement Project
-# Quote of the Day website
+# Quote of the Day website Using Mernstack 
 
 Video Link:[https://shorturl.at/iqrGS]
 
