@@ -1,7 +1,7 @@
 Techplement Project
 # Quote of the Day website
 
-Video Link: [https://urlis.net/Quotes]
+Video Link:[https://shorturl.at/iqrGS]
 
 ## Table of Contents
 
